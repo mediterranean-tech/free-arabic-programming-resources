@@ -1,14 +1,27 @@
+# موارد البرمجة العربية المجانية
+
 
 <div align="center">
-	We've adapted and will be expanding upon a great list originally by 01walid.
 
 
-في الوقت الحالي ، قمنا بتحويل قائمة بها الكثير من الموارد التي نريد ترجمتها أو إيجاد موارد مكافئة لها. (لا تتردد في المساهمة!)
+If you're just getting started take a look at the articles in the getting started section so you can learn a little more about what you would need to know to learn software engineering.
 
-     تم إنشاء هذه القائمة في الأصل بواسطة مستخدم github 01walid.
+We've also linked to various free arabic resources for learning different programming languages and software tools.
+
+We're collecting these resources to make it easier for you to build whatever you can imagine. (This list was originally put together by github user 01walid) If you're excited about technology and want to build right along with us, feel free to join us online with the link below.
 
 
-    https://github.com/01walid/awesome-arabic
+
+إذا كنت قد بدأت للتو ، فألق نظرة على المقالات في قسم البدء حتى تتمكن من معرفة المزيد حول ما قد تحتاج إلى معرفته لتعلم هندسة البرمجيات.
+
+لقد قمنا أيضًا بربط العديد من الموارد العربية المجانية لتعلم لغات البرمجة المختلفة وأدوات البرمجيات.
+
+نحن نجمع هذه الموارد لتسهيل بناء ما يمكنك تخيله. (تم وضع هذه القائمة في الأصل بواسطة github user 01walid) إذا كنت متحمسًا للتكنولوجيا وترغب في البناء معنا ، فلا تتردد في الانضمام إلينا عبر الإنترنت باستخدام الرابط أدناه.
+
+
+[انضم إلى Mediterranean Tech](https://join.slack.com/t/mediterranean-tech/shared_invite/zt-cptbhviu-7nGdudIKvKkyK3T88F9Ojg)
+[Join Mediterranean Tech](https://join.slack.com/t/mediterranean-tech/shared_invite/zt-cptbhviu-7nGdudIKvKkyK3T88F9Ojg)
+
 
 </div>
 
@@ -26,7 +39,6 @@
 - [Back-End Development](#back-end-development)
 - [Computer Science](#computer-science)
 - [Big Data](#big-data)
-- [Theory](#theory)
 - [Books](#books)
 - [Editors](#editors)
 - [Gaming](#gaming)
@@ -129,15 +141,6 @@ CSS frameworks and resources that support RTL layout.
 * https://github.com/HOST-Oman/libraqm - A library for complex text layout
 
 
-
-
-
-
-
-
-
-
-
 ## Fonts
 
 Freely available Arabic Fonts.
@@ -153,6 +156,10 @@ Freely available Arabic Fonts.
 
 ## Markdown
 * [Simple Markdown Editor](https://github.com/ahmadajmi/markdown-arabic) - Write Markdown in Arabic.
+
+
+## Books
+* [Bayt Al Hikma](https://www.baytalhikma2.org/) - Access to translated books in arabic
 
 
 ## Natural Language Processing
@@ -192,6 +199,7 @@ Libraries for working with Arabic language text and data.
 * [Ya (ي) Language](https://github.com/yalang/ya) -  An open source programming language in which you can code python in Arabic language.
 * [Shakkala Project مشروع شكّالة](https://github.com/Barqawiz/Shakkala) - A neural network for Arabic text vocalization to automatically form Arabic characters.
 
+
 ## GIT
 
 * [Ar cheat-sheet](http://www.git-tower.com/blog/git-cheat-sheet-ar) - Git Cheat Sheet in Arabic.
@@ -227,7 +235,8 @@ Useful libraries or tools that don't fit in the categories above.
 
 * [SemVer (Semantic Versioning)](http://semver.org/lang/ar/) specs in Arabic.
 * [Thawab](https://github.com/ojuba-org/thawab) - Thawab Arabic/Islamic encyclopedia system.
+* [Alb, قلب](https://nas.sr/%D9%82%D9%84%D8%A8/) - Functional Programming language in arabic by Ramsey Nasser
 
 # Contributing
 
-Your contributions are welcome, just send us a Pull Request!.
+Your contributions are welcome, just send us a Pull Request!
