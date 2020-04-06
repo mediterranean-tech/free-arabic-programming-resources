@@ -20,6 +20,8 @@ We're collecting these resources to make it easier for you to build whatever you
 
 
 [انضم إلى Mediterranean Tech](https://join.slack.com/t/mediterranean-tech/shared_invite/zt-cptbhviu-7nGdudIKvKkyK3T88F9Ojg)
+
+
 [Join Mediterranean Tech](https://join.slack.com/t/mediterranean-tech/shared_invite/zt-cptbhviu-7nGdudIKvKkyK3T88F9Ojg)
 
 
@@ -141,6 +143,11 @@ CSS frameworks and resources that support RTL layout.
 * https://github.com/HOST-Oman/libraqm - A library for complex text layout
 
 
+## Algorithms
+
+* [Mohammad Saad's Youtube Channel](https://www.youtube.com/user/nobody123497/)
+
+
 ## Fonts
 
 Freely available Arabic Fonts.
@@ -237,6 +244,19 @@ Useful libraries or tools that don't fit in the categories above.
 * [Thawab](https://github.com/ojuba-org/thawab) - Thawab Arabic/Islamic encyclopedia system.
 * [Alb, قلب](https://nas.sr/%D9%82%D9%84%D8%A8/) - Functional Programming language in arabic by Ramsey Nasser
 
-# Contributing
+# Contributors.
+
+Our Contributors are highlighted [here](./CONTRIBUTORS.md).
 
 Your contributions are welcome, just send us a Pull Request!
+
+
+
+Our Contributors are highlighted here.
+
+[link](./CONTRIBUTORS.md).
+
+Your contributions are welcome, just send us a Pull Request!
+
+
+
