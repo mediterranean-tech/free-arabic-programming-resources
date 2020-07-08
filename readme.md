@@ -152,6 +152,7 @@ CSS frameworks and resources that support RTL layout.
 
 Freely available Arabic Fonts.
 
+* [Kief Type Foundry](https://github.com/Gue3bara) - Mohamed Gaber posts a collection of fantastic open source Arabic fonts as part of the [Kief Type Foundry](http://kieftype.com/)
 * [Amiri Font](http://www.amirifont.org) - a classical Arabic typeface in Naskh style for typesetting books and other running text.
 * [Flat font](http://fonts.jozoor.com/flat-font/) - arabic font (Only Regular weight is available for free)..
 * [Jozoor font](http://fonts.jozoor.com/jozoor-font/) - Jozoor arabic font (Only Regular weight is available for free).
