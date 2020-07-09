@@ -62,8 +62,6 @@ We're collecting these resources to make it easier for you to build whatever you
 ## Getting Started
 
 * [دليل Peter Norvig لتعلم البرمجة](https://myahya.org/writing/21-days/) - دليل Peter Norvig لتعلم البرمجة
-* [Gammal Tech](https://www.gammal.tech/) - Online Programming Courses in Arabic : دورات البرمجة على الإنترنت باللغة العربية
-* [Hsoub Academy](http://academy.hsoub.com/) - Hight quality tutorials about programing, DevOps, UX and Design, Freelancing...
 * [Hsoub I/O](https://io.hsoub.com/) - The Arabic Reddit-like.
 * [informatic-ar](http://informatic-ar.com/) - Arabic content about programming concepts, algorithms, AI ..etc.
 
@@ -236,6 +234,12 @@ Libraries for working with Arabic language text and data.
 * [Mediterranean Tech](http://Mediterranean.tech) - The best technology community in the mediterrant
 * [iSecur1ty](http://www.isecur1ty.org/) - Arabs Security and Ethical hacking community.
 
+## Online Courses and Communities
+
+* [Barmej](https://www.barmej.com/)  - Barmej is an online platform with courses for learning to program online.
+* [Coded](https://www.joincoded.com/) - join coded is an online bootcamp for programming for the MENA region.
+* [Gammal Tech](https://www.gammal.tech/) - Online Programming Courses in Arabic : دورات البرمجة على الإنترنت باللغة العربية
+* [Hsoub Academy](http://academy.hsoub.com/) - Hight quality tutorials about programing, DevOps, UX and Design, and Freelancing.
 
 ## Miscellaneous
 
@@ -247,17 +251,6 @@ Useful libraries or tools that don't fit in the categories above.
 
 # Contributors.
 
-Our Contributors are highlighted [here](./CONTRIBUTORS.md).
-
-Your contributions are welcome, just send us a Pull Request!
-
-
-
-Our Contributors are highlighted here.
-
-[link](./CONTRIBUTORS.md).
-
-Your contributions are welcome, just send us a Pull Request!
-
+Our Contributors are highlighted [here](./CONTRIBUTORS.md); feel free to send a Pull Request!
 
 
